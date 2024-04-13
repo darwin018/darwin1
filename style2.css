@@ -1,0 +1,27 @@
+.header1{
+    background-color: darkblue;
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:-1%;
+    border: 2px;
+    text-align: center;
+}
+th{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+}
+caption{
+    font-size: 250%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+a{
+    color:white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    background-color: darkblue;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
