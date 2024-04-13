@@ -1,5 +1,5 @@
 .header{
-    background-image:url("images\headerbg2.jpg");
+    background-image:url("images/headerbg2.jpg");
     font-size: 400%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding:2%;
@@ -18,7 +18,7 @@ a{
 }
 .button{
     color:white;
-    background-image:url("images\headerbg2.jpg");
+    background-image:url("images/headerbg2.jpg");
     border: none;
     padding: 15px 60px;
 }
@@ -26,7 +26,7 @@ a{
     font-size: 110%;
 }
 footer{
-    background-image:url("images\headerbg2.jpg");
+    background-image:url("images/headerbg2.jpg");
     color:white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

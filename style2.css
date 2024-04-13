@@ -1,5 +1,5 @@
 .header1{
-    background-image:url("images\headerbg2.jpg");
+    background-image:url("images/headerbg2.jpg");
     font-size: 200%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding:-1%;
@@ -21,7 +21,7 @@ a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 footer{
-    background-image:url("images\headerbg2.jpg");
+    background-image:url("images/headerbg2.jpg");
     color:white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
