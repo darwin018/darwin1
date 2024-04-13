@@ -1,0 +1,32 @@
+.header{
+    
+    font-size: 400%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:2%;
+    border: 2px;
+    text-align: center;
+}
+.topics{
+    
+        column-count: 3;
+        font-size: 150%;
+}
+a{
+    color:white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button{
+    color:white;
+    
+    border: none;
+    padding: 15px 60px;
+}
+.button:hover{
+    font-size: 110%;
+}
+footer{
+    
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
